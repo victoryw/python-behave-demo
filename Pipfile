@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 behave = "*"
+allure-behave = "*"
 
 [dev-packages]
 
