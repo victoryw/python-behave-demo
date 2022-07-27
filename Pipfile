@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 behave = "*"
 allure-behave = "*"
+selenium = "*"
+chromedriver-binary = "==103.0.5060.134.0"
 
 [dev-packages]
 
